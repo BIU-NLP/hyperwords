@@ -16,7 +16,7 @@ Running hyperwords may require a lot of computational resources:
 - significant running time; hyperwords is neither optimized nor multi-threaded
 
 hyperwords assumes a *nix shell, and requires Python 2.7 (or later, excluding 3+) with the following packages installed:
-numpy, scipy, sparsesvd.
+numpy, scipy, sparsesvd, docopt.
 
 
 ## Quick-Start ##
